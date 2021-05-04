@@ -7,4 +7,4 @@ The data is available at the NIH Common Fund’s National Metabolomics Data Repo
 # How to run the code
 1. Run the main_file..py
 2. Save results to .xls file
-3. visualization.py 
+3. Run visualization.py 
